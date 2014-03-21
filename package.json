@@ -1,0 +1,15 @@
+{
+  "name": "path",
+  "version": "0.0.0",
+  "description": "A path website",
+  "main": "app/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Chao (http://dchao.co/)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~3.4.8",
+    "bluebird": "~1.1.1"
+  }
+}
