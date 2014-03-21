@@ -1,0 +1,1 @@
+[Path](http://path.com) has some pretty awesome UI, but they don't have a website. I'm playing around with how a website might look if they had one.
